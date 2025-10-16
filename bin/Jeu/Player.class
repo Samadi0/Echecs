@@ -1,1 +1,5 @@
+package Jeu;
 
+public class Player {
+
+}
